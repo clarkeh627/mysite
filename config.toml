@@ -3,6 +3,7 @@ baseurl = "https://clarkehardy.com"
 languageCode = "en-us"
 title = "Clarke Hardy"
 theme = "hugo-highlights-theme"
+publishDir = "docs"
 
 # Enter your tracking code to enable Google analytics
 googleAnalytics = "UA-163970776-1"
