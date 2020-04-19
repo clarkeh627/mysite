@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://clarkeh627.github.io/mysite"
+baseurl = "https://clarkeh627.github.io/mysite/"
 languageCode = "en-us"
 title = "Clarke Hardy"
 theme = "hugo-highlights-theme"
@@ -55,7 +55,6 @@ googleAnalytics = "UA-163970776-1"
     description = "I'm a Ph.D. student in physics at Stanford University. I'm interested in learning about dark matter, one of the most intriguing and elusive mysteries of our universe today. I have worked on three different experiments that attempt to detect in here on Earth -- the [NEWS-G experiment](https://news-g.org/), which uses spherical proportional counters, the [PICO experiment](http://www.picoexperiment.com/), using bubble chambers, and now the [LZ experiment](https://lz.lbl.gov), a liquid xenon time projection chamber. You can learn more about my work by following the links below."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic01.jpg"
 
   # skill section
   [[params.block]]
@@ -65,7 +64,6 @@ googleAnalytics = "UA-163970776-1"
     description = "Below, you can find links to a few places that showcase the progress I and my colleagues have made on our search to understand dark matter."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic02.jpg"
 
     [[params.block.item]]
       icontype = "fab"
@@ -116,7 +114,6 @@ googleAnalytics = "UA-163970776-1"
 #    title = "One more thing"
 #    description = "Aliquam ante ac id. Adipiscing interdum lorem praesent fusce pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed adipiscing eu amet interdum lorem blandit vis ac commodo aliquet integer vulputate phasellus lorem ipsum dolor lorem magna consequat sed etiam adipiscing interdum."
 #    # the picture is stored at static/images/
-#    picture = "pic03.jpg"
 
 #  # custom section
 #  [[params.block]]
@@ -126,7 +123,6 @@ googleAnalytics = "UA-163970776-1"
 #    title = "Don't forget"
 #    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
 #    # the picture is stored at static/images/
-#    picture = "pic04.jpg"
 
   # contact form
   [[params.block]]
