@@ -83,7 +83,7 @@ googleAnalytics = "UA-163970776-1"
       icontype = "fas"
       icon = "fa-file-pdf"
       title = "Download my CV"
-      url = "/content/CV.pdf"
+      url = "content/CV.pdf"
       newtab = true
 
     [[params.block.item]]
