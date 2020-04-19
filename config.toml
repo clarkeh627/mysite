@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://clarkehardy.com"
+baseurl = "https://clarkeh627.github.io/mysite/"
 languageCode = "en-us"
 title = "Clarke Hardy"
 theme = "hugo-highlights-theme"
