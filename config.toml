@@ -18,7 +18,7 @@ googleAnalytics = "UA-163970776-1"
   # To provide more meta data for search engings feel free to add a few informations.
   # This lines will be inserted as meta tags.
   name = "Clarke Hardy"
-  description = "Clarke Hardy Stanford Physics Dark Matter"
+  description = "Physics Ph.D. student with an interest in direct detection of dark matter."
 
   # For a static site it's not possible to provide a contact form. The contact form uses
   # www.formspree.io as a proxy. The form makes a Post request to their servers to send an email
