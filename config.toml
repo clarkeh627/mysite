@@ -18,7 +18,7 @@ googleAnalytics = "UA-163970776-1"
   # To provide more meta data for search engings feel free to add a few informations.
   # This lines will be inserted as meta tags.
   name = "Clarke Hardy"
-  description = "Physics Ph.D. student with an interest in direct detection of dark matter."
+  description = "Physics Ph.D. student with an interest in dark matter direct detection."
 
   # For a static site it's not possible to provide a contact form. The contact form uses
   # www.formspree.io as a proxy. The form makes a Post request to their servers to send an email
@@ -37,7 +37,6 @@ googleAnalytics = "UA-163970776-1"
   # to change the image you could use the param picture on every section.
   # If it's disabled you could change the background to overwrite the bg.jpg and overlay.png to set the background.
   backgroundpersection = false
-  avatar = "profile.jpg"
 
   # hero Section
   [params.hero]
@@ -51,8 +50,7 @@ googleAnalytics = "UA-163970776-1"
     id = "about"
     type = "text"
     title = "About me"
-    avatar = "profile.jpg"
-    description = "I'm a Ph.D. student in physics at Stanford University. I'm interested in learning about dark matter, one of the most intriguing and elusive mysteries of our universe today. I have worked on three different experiments that attempt to detect in here on Earth -- the [NEWS-G experiment](https://news-g.org/), which uses spherical proportional counters, the [PICO experiment](http://www.picoexperiment.com/), using bubble chambers, and now the [LZ experiment](https://lz.lbl.gov), a liquid xenon time projection chamber. You can learn more about my work by following the links below."
+    description = "I'm a Ph.D. student in physics at Stanford University. My research focuses on understanding dark matter, one of the most elusive and mysterious components of our universe. I have worked on three different experiments that attempt to detect it here on Earth -- the [NEWS-G experiment](https://news-g.org/), which uses spherical proportional counters, the [PICO experiment](http://www.picoexperiment.com/), using bubble chambers, and now the [LZ experiment](https://lz.lbl.gov), a liquid xenon time projection chamber. You can learn more about my work by following the links below."
     buttontext = "next"
     # the picture is stored at static/images/
 
