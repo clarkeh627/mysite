@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /content/CV.pdf
+Noindex: /content/CV.pdf
+
+Sitemap: https://clarkehardy.com/sitemap.xml
