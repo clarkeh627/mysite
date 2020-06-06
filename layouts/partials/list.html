@@ -17,7 +17,7 @@
 		  {{ if .newtab}}
 		    <a href="{{ .url }}" target="_blank">
 		  {{ else }}
-		    <a href="{{ .url }}">
+		    <a href="{{ .url }}" class="goto scrolly">
 		  {{ end }}
 		    <span class="icon major {{ .icontype }} {{ .icon }}"></span>
                     <h3>{{ .title }}</h3>
