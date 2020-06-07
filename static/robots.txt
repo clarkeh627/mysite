@@ -3,5 +3,7 @@ Disallow: /content/CV.pdf
 Noindex: /content/CV.pdf
 Disallow: /404.html
 Noindex: /404.html
+Disallow: /images/
+Noindex: /images/
 
 Sitemap: https://clarkehardy.com/sitemap.xml
