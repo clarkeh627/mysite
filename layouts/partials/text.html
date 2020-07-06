@@ -10,6 +10,7 @@
       </header>
         <div class="image"><img src="images/profile.jpg" alt="Avatar" style="width:200px"></div>
       <p><br>{{ with .block.description }}{{ . | markdownify }}{{ end }}</p>
+      <p><br>{{ with .block.description2 }}{{ . | markdownify }}{{ end }}</p>
     </div>
     {{ if .next }}
       <a href="#{{.next.id}}" class="goto-next scrolly">{{ with .block.buttontext }}{{ . | markdownify }}{{ end }}</a>
